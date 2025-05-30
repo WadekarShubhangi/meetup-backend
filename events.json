@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Conference",
+    "details": "Join industry leaders as they discuss the latest trends in AI, cloud computing, and software innovation. This conference offers keynotes, networking opportunities, and hands-on demos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nulla a congue porta, urna arcu vehicula nibh, nec finibus tortor metus a nulla. Phasellus euismod, sapien nec fermentum imperdiet, erat urna iaculis urna, vel scelerisque libero justo sit amet augue. Sed vel neque vitae magna blandit cursus. Morbi ut dictum purus. Vivamus posuere justo nec leo fermentum, at dignissim nibh pretium. Etiam ac ligula nec risus posuere hendrerit.",
+    "eventDay": "Thursday July 13 2023",
+    "startTime": "07:00:00 AM",
+    "endTime": "10:00:00 AM",
+    "eventMode": "Offline",
+    "location": "Tech Park, 123 Innovation Road, City",
+    "price": 2000,
+    "image": "tech_conference.jpg",
+    "hostedBy": "Tech Gurus",
+    "speakers": [
+      {
+        "name": "Alice Smith",
+        "title": "CTO, TechCorp",
+        "photo": "alice.jpg"
+      },
+      {
+        "name": "Bob Ray",
+        "title": "Lead Architect, DevSoft",
+        "photo": "bob.jpg"
+      }
+    ],
+    "additionalInfo": {
+      "dressCode": "Business Formal",
+      "ageRestrictions": "18 and above"
+    },
+    "tags": ["technology", "conference"]
+  },
+  {
+    "id": 2,
+    "title": "Marketing Seminar",
+    "details": "Explore cutting-edge digital marketing strategies with industry veterans. Learn about SEO, content marketing, and analytics tools. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor lorem in neque porttitor, in suscipit diam gravida. Vivamus rhoncus ligula at massa convallis, nec facilisis neque efficitur. Integer imperdiet, eros in bibendum consequat, nunc lacus sagittis justo, at tristique nulla metus non sem. Duis ut justo nec enim rutrum pharetra. In vulputate tellus nec augue porta, sed dignissim nisl tempor.",
+    "eventDay": "Tuesday August 15 2023",
+    "startTime": "10:00:00 AM",
+    "endTime": "01:00:00 PM",
+    "eventMode": "Offline",
+    "location": "Marketing City, 789 Marketing Avenue, City",
+    "price": 3000,
+    "image": "marketing_seminar.jpg",
+    "hostedBy": "Marketing Experts",
+    "speakers": [
+      {
+        "name": "Sarah Johnson",
+        "title": "Marketing Manager",
+        "photo": "sarah.jpg"
+      },
+      {
+        "name": "Michael Brown",
+        "title": "SEO Specialist",
+        "photo": "michael.jpg"
+      }
+    ],
+    "additionalInfo": {
+      "dressCode": "Smart casual",
+      "ageRestrictions": "18 and above"
+    },
+    "tags": ["marketing", "digital"]
+  },
+  {
+    "id": 3,
+    "title": "Design Workshop",
+    "details": "Participate in an immersive UI/UX design workshop with real-world examples and exercises. Discover the secrets of user-centered design. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pretium orci non velit dapibus, ac commodo justo sodales. Integer porttitor pulvinar erat, a feugiat odio blandit in. Aliquam tristique fringilla purus in pretium. Proin in tellus a purus fermentum efficitur. Cras lacinia nulla nec augue vehicula, nec sagittis ligula pretium.",
+    "eventDay": "Monday July 10 2023",
+    "startTime": "02:00:00 PM",
+    "endTime": "05:00:00 PM",
+    "eventMode": "Offline",
+    "location": "Design Hub, 45 Creative Street, City",
+    "price": 1500,
+    "image": "design_workshop.jpg",
+    "hostedBy": "Design Pros",
+    "speakers": [
+      {
+        "name": "Emily Carter",
+        "title": "UX Designer",
+        "photo": "emily.jpg"
+      }
+    ],
+    "additionalInfo": {
+      "dressCode": "Casual",
+      "ageRestrictions": "16 and above"
+    },
+    "tags": ["design", "uiux"]
+  },
+  {
+    "id": 4,
+    "title": "Remote Leadership Webinar",
+    "details": "Master the art of managing remote teams and building virtual collaboration cultures. Gain insight from leadership experts. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel mi eget odio rutrum ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ullamcorper, ante non egestas hendrerit, purus metus bibendum magna, et rutrum est magna non urna. Nulla facilisi. Integer nec dui ac elit vehicula porttitor.",
+    "eventDay": "Thursday July 20 2023",
+    "startTime": "05:00:00 PM",
+    "endTime": "07:00:00 PM",
+    "eventMode": "Online",
+    "location": "Online",
+    "price": 0,
+    "image": "leadership_webinar.jpg",
+    "hostedBy": "Leadership Circle",
+    "speakers": [
+      {
+        "name": "David King",
+        "title": "Executive Coach",
+        "photo": "david.jpg"
+      }
+    ],
+    "additionalInfo": {
+      "dressCode": "NA",
+      "ageRestrictions": "Open to all"
+    },
+    "tags": ["leadership", "remote"]
+  }
+]
