@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Startup Meetup",
-    "details": "Network with budding entrepreneurs and investors. Learn how to pitch your idea and raise capital. Engage in panel discussions and one-on-one sessions with startup veterans.",
+    "details": "Network with budding entrepreneurs and investors. Learn how to pitch your idea and raise capital.",
     "eventDay": "Friday June 21 2024",
     "startTime": "04:00:00 PM",
     "endTime": "07:00:00 PM",
@@ -19,7 +19,6 @@
       }
     ],
     "additionalInfo": {
-      "dressCode": "Smart Casual",
       "mandatory": "PAN ID"
     },
     "tags": ["startup", "networking"]
@@ -27,7 +26,7 @@
   {
     "id": 2,
     "title": "Finance Bootcamp",
-    "details": "Understand budgeting, investing, and personal finance with expert guidance. A perfect event for those looking to grow financially independent.",
+    "details": "Understand budgeting, investing, and personal finance with expert guidance.",
     "eventDay": "Wednesday May 15 2024",
     "startTime": "11:00:00 AM",
     "endTime": "02:00:00 PM",
@@ -51,7 +50,7 @@
   {
     "id": 3,
     "title": "Health Summit",
-    "details": "Explore holistic health solutions and wellness trends. Join yoga sessions, nutrition talks, and mental health discussions with experts.",
+    "details": "Explore holistic health solutions and wellness trends.",
     "eventDay": "Sunday April 7 2024",
     "startTime": "09:00:00 AM",
     "endTime": "01:00:00 PM",
@@ -68,7 +67,6 @@
       }
     ],
     "additionalInfo": {
-      "dressCode": "Athleisure",
       "idRequired": "Aadhar Card"
     },
     "tags": ["health", "wellness"]
@@ -76,7 +74,7 @@
   {
     "id": 4,
     "title": "Photography Walk",
-    "details": "Join photography enthusiasts on a guided photo walk across the heritage parts of the city. Learn tips, tricks, and composition techniques.",
+    "details": "Join photography enthusiasts on a guided photo walk across heritage locations.",
     "eventDay": "Saturday March 16 2024",
     "startTime": "06:00:00 AM",
     "endTime": "09:00:00 AM",
@@ -93,15 +91,14 @@
       }
     ],
     "additionalInfo": {
-      "dressCode": "Comfortable outdoor",
-      "ageRestrictions": "12 and above"
+      "dressCode": "Outdoor wear"
     },
     "tags": ["photography", "walk"]
   },
   {
     "id": 5,
     "title": "Coding Hackathon",
-    "details": "Participate in a 24-hour coding marathon. Build solutions, solve challenges, and win exciting prizes. Open to all developers and coders.",
+    "details": "Participate in a 24-hour coding marathon and win exciting prizes.",
     "eventDay": "Saturday August 3 2024",
     "startTime": "09:00:00 AM",
     "endTime": "09:00:00 AM (Next Day)",
@@ -118,7 +115,6 @@
       }
     ],
     "additionalInfo": {
-      "dressCode": "Casual",
       "bring": "Laptop & ID card"
     },
     "tags": ["coding", "hackathon"]
@@ -126,7 +122,7 @@
   {
     "id": 6,
     "title": "Art Showcase",
-    "details": "Experience stunning art by local creators. Includes painting exhibitions, live art, and creative installations.",
+    "details": "Experience stunning art by local creators including live art and exhibitions.",
     "eventDay": "Friday July 12 2024",
     "startTime": "05:00:00 PM",
     "endTime": "09:00:00 PM",
