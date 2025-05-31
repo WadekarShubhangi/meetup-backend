@@ -14,8 +14,14 @@ app.use(express.json());
 const { initializeDatabase } = require("./db/db.connect");
 const Events = require("./models/event.models");
 const fs = require("fs"); 
-const jsonData = fs.readFileSync("events.json", "utf-8");
-const EventData = JSON.parse(jsonData);
+// const jsonData = fs.readFileSync("events.json", "utf-8");
+// const EventData = JSON.parse(jsonData);
+
+const path = require("path");
+const jsonPath = path.join(__dirname, "events.json");
+const jsonData = fs.readFileSync(jsonPath, "utf-8");
+
+
 
 initializeDatabase();
 
