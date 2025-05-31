@@ -47,6 +47,9 @@ function seedData() {
 
 // seedData();
 
+
+app.get('/favicon.ico', (req, res) => res.status(204).end());
+
 async function addNewEvent(event) {
   try {
     const newEvent = new Events(event);
@@ -93,9 +96,6 @@ app.get('/events', async (req, res) => {
     res.status(500).json({ error: "Failed to fetch Events." });
   }
 })
-
-
-app.get('/favicon.ico', (req, res) => res.status(204).end());
 
 app.listen(PORT, () => {
   console.log(`Server is running on ${PORT}`);
