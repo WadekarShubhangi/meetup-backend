@@ -15,13 +15,10 @@ const { initializeDatabase } = require("./db/db.connect");
 const Events = require("./models/event.models");
 const fs = require("fs"); 
 // const jsonData = fs.readFileSync("events.json", "utf-8");
-
-
 const path = require("path");
 const jsonPath = path.join(__dirname, "events.json");
 const jsonData = fs.readFileSync(jsonPath, "utf-8");
 const EventData = JSON.parse(jsonData);
-
 
 initializeDatabase();
 
@@ -50,9 +47,7 @@ function seedData() {
     console.log("Not able to seed Data.");
   }
 }
-
 // seedData();
-
 
 app.get('/favicon.ico', (req, res) => res.status(204).end());
 

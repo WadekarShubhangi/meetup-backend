@@ -9,7 +9,7 @@
     "eventMode": "Offline",
     "location": "Tech Park, 123 Innovation Road, City",
     "price": 2000,
-    "image": "tech_conference.jpg",
+    "image": "https://media.istockphoto.com/id/2189621574/photo/multiethnic-group-of-businesspeople-brainstorming-and-strategizing-in-a-meeting.jpg?s=1024x1024&w=is&k=20&c=lL9X4acKCuXE3FYGUetaR959ylnqOSEK6oyw052N7RY=",
     "hostedBy": "Tech Gurus",
     "speakers": [
       {
@@ -39,7 +39,7 @@
     "eventMode": "Offline",
     "location": "Marketing City, 789 Marketing Avenue, City",
     "price": 3000,
-    "image": "marketing_seminar.jpg",
+    "image": "https://media.istockphoto.com/id/2196870531/photo/making-decision-on-the-move.jpg?s=1024x1024&w=is&k=20&c=_pQaGMvlsKvzt7g86THep4_K4VRUVyC1xFFqXcpbhRQ=",
     "hostedBy": "Marketing Experts",
     "speakers": [
       {
@@ -69,7 +69,7 @@
     "eventMode": "Offline",
     "location": "Design Hub, 45 Creative Street, City",
     "price": 1500,
-    "image": "design_workshop.jpg",
+    "image": "https://media.istockphoto.com/id/2148856297/photo/speaker-at-business-conference-corporate-presentation-workshop-coaching-training-news.jpg?s=1024x1024&w=is&k=20&c=YC7FndkrxycwMFGaFM4TA27-5ICXuoffFQcRb0gsE68=",
     "hostedBy": "Design Pros",
     "speakers": [
       {
@@ -94,7 +94,7 @@
     "eventMode": "Online",
     "location": "Online",
     "price": 0,
-    "image": "leadership_webinar.jpg",
+    "image": "https://media.istockphoto.com/id/2185791629/photo/diverse-business-colleagues-shaking-hands-in-a-modern-office.jpg?s=1024x1024&w=is&k=20&c=JqmI06gpuxc2JaNsP0wTsuBqWNamXGv-0j-LcdQI60Q=",
     "hostedBy": "Leadership Circle",
     "speakers": [
       {
