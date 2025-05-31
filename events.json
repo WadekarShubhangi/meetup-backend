@@ -1,112 +1,150 @@
 [
   {
     "id": 1,
-    "title": "Tech Conference",
-    "details": "Join industry leaders as they discuss the latest trends in AI, cloud computing, and software innovation. This conference offers keynotes, networking opportunities, and hands-on demos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nulla a congue porta, urna arcu vehicula nibh, nec finibus tortor metus a nulla. Phasellus euismod, sapien nec fermentum imperdiet, erat urna iaculis urna, vel scelerisque libero justo sit amet augue. Sed vel neque vitae magna blandit cursus. Morbi ut dictum purus. Vivamus posuere justo nec leo fermentum, at dignissim nibh pretium. Etiam ac ligula nec risus posuere hendrerit.",
-    "eventDay": "Thursday July 13 2023",
-    "startTime": "07:00:00 AM",
-    "endTime": "10:00:00 AM",
+    "title": "Startup Meetup",
+    "details": "Network with budding entrepreneurs and investors. Learn how to pitch your idea and raise capital. Engage in panel discussions and one-on-one sessions with startup veterans.",
+    "eventDay": "Friday June 21 2024",
+    "startTime": "04:00:00 PM",
+    "endTime": "07:00:00 PM",
     "eventMode": "Offline",
-    "location": "Tech Park, 123 Innovation Road, City",
-    "price": 2000,
-    "image": "https://media.istockphoto.com/id/2189621574/photo/multiethnic-group-of-businesspeople-brainstorming-and-strategizing-in-a-meeting.jpg?s=1024x1024&w=is&k=20&c=lL9X4acKCuXE3FYGUetaR959ylnqOSEK6oyw052N7RY=",
-    "hostedBy": "Tech Gurus",
+    "location": "CoWork Hub, 67 Founders Lane, City",
+    "price": 1000,
+    "image": "https://media.istockphoto.com/id/2148856297/photo/speaker-at-business-conference-corporate-presentation-workshop-coaching-training-news.jpg?s=1024x1024&w=is&k=20&c=YC7FndkrxycwMFGaFM4TA27-5ICXuoffFQcRb0gsE68=",
+    "hostedBy": "Startup Club",
     "speakers": [
       {
-        "name": "Alice Smith",
-        "title": "CTO, TechCorp",
-        "photo": "alice.jpg"
-      },
-      {
-        "name": "Bob Ray",
-        "title": "Lead Architect, DevSoft",
-        "photo": "bob.jpg"
+        "name": "Neha Patel",
+        "title": "CEO, FinGrow",
+        "photo": "neha.jpg"
       }
     ],
     "additionalInfo": {
-      "dressCode": "Business Formal",
-      "ageRestrictions": "18 and above"
+      "dressCode": "Smart Casual",
+      "mandatory": "PAN ID"
     },
-    "tags": ["technology", "conference"]
+    "tags": ["startup", "networking"]
   },
   {
     "id": 2,
-    "title": "Marketing Seminar",
-    "details": "Explore cutting-edge digital marketing strategies with industry veterans. Learn about SEO, content marketing, and analytics tools. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor lorem in neque porttitor, in suscipit diam gravida. Vivamus rhoncus ligula at massa convallis, nec facilisis neque efficitur. Integer imperdiet, eros in bibendum consequat, nunc lacus sagittis justo, at tristique nulla metus non sem. Duis ut justo nec enim rutrum pharetra. In vulputate tellus nec augue porta, sed dignissim nisl tempor.",
-    "eventDay": "Tuesday August 15 2023",
-    "startTime": "10:00:00 AM",
-    "endTime": "01:00:00 PM",
-    "eventMode": "Offline",
-    "location": "Marketing City, 789 Marketing Avenue, City",
-    "price": 3000,
-    "image": "https://media.istockphoto.com/id/2196870531/photo/making-decision-on-the-move.jpg?s=1024x1024&w=is&k=20&c=_pQaGMvlsKvzt7g86THep4_K4VRUVyC1xFFqXcpbhRQ=",
-    "hostedBy": "Marketing Experts",
+    "title": "Finance Bootcamp",
+    "details": "Understand budgeting, investing, and personal finance with expert guidance. A perfect event for those looking to grow financially independent.",
+    "eventDay": "Wednesday May 15 2024",
+    "startTime": "11:00:00 AM",
+    "endTime": "02:00:00 PM",
+    "eventMode": "Online",
+    "location": "Zoom Webinar",
+    "price": 0,
+    "image": "https://media.istockphoto.com/id/2028295204/photo/coworkers-talking-on-business-meeting-on-office.webp?a=1&b=1&s=612x612&w=0&k=20&c=o4K92lKqyAyi4F-il2nKyR_Wrab4XY064f8feDXiDLc=",
+    "hostedBy": "Money Mindset",
     "speakers": [
       {
-        "name": "Sarah Johnson",
-        "title": "Marketing Manager",
-        "photo": "sarah.jpg"
-      },
-      {
-        "name": "Michael Brown",
-        "title": "SEO Specialist",
-        "photo": "michael.jpg"
+        "name": "Rohan Desai",
+        "title": "Certified Financial Planner",
+        "photo": "rohan.jpg"
       }
     ],
     "additionalInfo": {
-      "dressCode": "Smart casual",
-      "ageRestrictions": "18 and above"
+      "entryPass": "QR Code on Email"
     },
-    "tags": ["marketing", "digital"]
+    "tags": ["finance", "investment"]
   },
   {
     "id": 3,
-    "title": "Design Workshop",
-    "details": "Participate in an immersive UI/UX design workshop with real-world examples and exercises. Discover the secrets of user-centered design. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pretium orci non velit dapibus, ac commodo justo sodales. Integer porttitor pulvinar erat, a feugiat odio blandit in. Aliquam tristique fringilla purus in pretium. Proin in tellus a purus fermentum efficitur. Cras lacinia nulla nec augue vehicula, nec sagittis ligula pretium.",
-    "eventDay": "Monday July 10 2023",
-    "startTime": "02:00:00 PM",
-    "endTime": "05:00:00 PM",
+    "title": "Health Summit",
+    "details": "Explore holistic health solutions and wellness trends. Join yoga sessions, nutrition talks, and mental health discussions with experts.",
+    "eventDay": "Sunday April 7 2024",
+    "startTime": "09:00:00 AM",
+    "endTime": "01:00:00 PM",
     "eventMode": "Offline",
-    "location": "Design Hub, 45 Creative Street, City",
-    "price": 1500,
-    "image": "https://media.istockphoto.com/id/2148856297/photo/speaker-at-business-conference-corporate-presentation-workshop-coaching-training-news.jpg?s=1024x1024&w=is&k=20&c=YC7FndkrxycwMFGaFM4TA27-5ICXuoffFQcRb0gsE68=",
-    "hostedBy": "Design Pros",
+    "location": "Wellness Arena, 98 Healthy Street, City",
+    "price": 500,
+    "image": "https://media.istockphoto.com/id/2189621574/photo/multiethnic-group-of-businesspeople-brainstorming-and-strategizing-in-a-meeting.jpg?s=1024x1024&w=is&k=20&c=lL9X4acKCuXE3FYGUetaR959ylnqOSEK6oyw052N7RY=",
+    "hostedBy": "FitLife Org",
     "speakers": [
       {
-        "name": "Emily Carter",
-        "title": "UX Designer",
-        "photo": "emily.jpg"
+        "name": "Dr. Kavya Mehra",
+        "title": "Nutritionist & Wellness Coach",
+        "photo": "kavya.jpg"
+      }
+    ],
+    "additionalInfo": {
+      "dressCode": "Athleisure",
+      "idRequired": "Aadhar Card"
+    },
+    "tags": ["health", "wellness"]
+  },
+  {
+    "id": 4,
+    "title": "Photography Walk",
+    "details": "Join photography enthusiasts on a guided photo walk across the heritage parts of the city. Learn tips, tricks, and composition techniques.",
+    "eventDay": "Saturday March 16 2024",
+    "startTime": "06:00:00 AM",
+    "endTime": "09:00:00 AM",
+    "eventMode": "Offline",
+    "location": "City Fort Gate",
+    "price": 300,
+    "image": "https://media.istockphoto.com/id/2148856297/photo/speaker-at-business-conference-corporate-presentation-workshop-coaching-training-news.jpg?s=1024x1024&w=is&k=20&c=YC7FndkrxycwMFGaFM4TA27-5ICXuoffFQcRb0gsE68=",
+    "hostedBy": "PhotoTribe",
+    "speakers": [
+      {
+        "name": "Ankit Verma",
+        "title": "Street Photographer",
+        "photo": "ankit.jpg"
+      }
+    ],
+    "additionalInfo": {
+      "dressCode": "Comfortable outdoor",
+      "ageRestrictions": "12 and above"
+    },
+    "tags": ["photography", "walk"]
+  },
+  {
+    "id": 5,
+    "title": "Coding Hackathon",
+    "details": "Participate in a 24-hour coding marathon. Build solutions, solve challenges, and win exciting prizes. Open to all developers and coders.",
+    "eventDay": "Saturday August 3 2024",
+    "startTime": "09:00:00 AM",
+    "endTime": "09:00:00 AM (Next Day)",
+    "eventMode": "Offline",
+    "location": "CodeGround Campus, Sector 9",
+    "price": 0,
+    "image": "https://media.istockphoto.com/id/2189621574/photo/multiethnic-group-of-businesspeople-brainstorming-and-strategizing-in-a-meeting.jpg?s=1024x1024&w=is&k=20&c=lL9X4acKCuXE3FYGUetaR959ylnqOSEK6oyw052N7RY=",
+    "hostedBy": "Techies United",
+    "speakers": [
+      {
+        "name": "Aarav Singh",
+        "title": "Lead Developer, CodeLogics",
+        "photo": "aarav.jpg"
       }
     ],
     "additionalInfo": {
       "dressCode": "Casual",
-      "ageRestrictions": "16 and above"
+      "bring": "Laptop & ID card"
     },
-    "tags": ["design", "uiux"]
+    "tags": ["coding", "hackathon"]
   },
   {
-    "id": 4,
-    "title": "Remote Leadership Webinar",
-    "details": "Master the art of managing remote teams and building virtual collaboration cultures. Gain insight from leadership experts. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel mi eget odio rutrum ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ullamcorper, ante non egestas hendrerit, purus metus bibendum magna, et rutrum est magna non urna. Nulla facilisi. Integer nec dui ac elit vehicula porttitor.",
-    "eventDay": "Thursday July 20 2023",
+    "id": 6,
+    "title": "Art Showcase",
+    "details": "Experience stunning art by local creators. Includes painting exhibitions, live art, and creative installations.",
+    "eventDay": "Friday July 12 2024",
     "startTime": "05:00:00 PM",
-    "endTime": "07:00:00 PM",
-    "eventMode": "Online",
-    "location": "Online",
-    "price": 0,
-    "image": "https://media.istockphoto.com/id/2185791629/photo/diverse-business-colleagues-shaking-hands-in-a-modern-office.jpg?s=1024x1024&w=is&k=20&c=JqmI06gpuxc2JaNsP0wTsuBqWNamXGv-0j-LcdQI60Q=",
-    "hostedBy": "Leadership Circle",
+    "endTime": "09:00:00 PM",
+    "eventMode": "Offline",
+    "location": "Gallery 101, Art Avenue, City",
+    "price": 800,
+    "image": "https://media.istockphoto.com/id/2028295204/photo/coworkers-talking-on-business-meeting-on-office.webp?a=1&b=1&s=612x612&w=0&k=20&c=o4K92lKqyAyi4F-il2nKyR_Wrab4XY064f8feDXiDLc=",
+    "hostedBy": "Creative Hands",
     "speakers": [
       {
-        "name": "David King",
-        "title": "Executive Coach",
-        "photo": "david.jpg"
+        "name": "Ishita Rao",
+        "title": "Visual Artist",
+        "photo": "ishita.jpg"
       }
     ],
     "additionalInfo": {
-      "dressCode": "NA",
-      "ageRestrictions": "Open to all"
+      "noRestrictions": "Open entry"
     },
-    "tags": ["leadership", "remote"]
+    "tags": ["art", "exhibition"]
   }
 ]
