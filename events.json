@@ -2,14 +2,14 @@
   {
     "id": 1,
     "title": "Startup Meetup",
-    "details": "Join an exciting networking event designed for budding entrepreneurs and investors alike. Learn how to pitch your ideas effectively and raise capital for your startup ventures. The meetup features workshops, Q&A sessions, and live pitches. Expand your network with like-minded professionals and industry experts. Gain valuable insights into the startup ecosystem and business growth strategies. Ideal for early-stage founders and startup enthusiasts. Don’t miss the opportunity to accelerate your business journey.",
+    "details": "Network with budding entrepreneurs and investors at this exciting startup event. Learn how to pitch your idea effectively and raise capital from leading angel investors. Sessions include startup funding, MVP building, and growth hacking. Enjoy real-world success stories from founders who’ve scaled their ventures. Interactive Q&A and rapid pitching round. Bring your ideas, your questions, and your passion. Light refreshments and networking kits provided.",
     "eventDay": "Friday June 21 2024",
     "startTime": "04:00:00 PM",
     "endTime": "07:00:00 PM",
     "eventMode": "Offline",
-    "location": "CoWork Hub",
+    "location": "CoWork Hub Building, 67 Founders Lane, Central City",
     "price": 1000,
-    "image": "https://media.istockphoto.com/id/2028295204/photo/coworkers-talking-on-business-meeting-on-office.webp?a=1&b=1&s=612x612&w=0&k=20&c=o4K92lKqyAyi4F-il2nKyR_Wrab4XY064f8feDXiDLc=",
+    "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "hostedBy": "Startup Club",
     "speakers": [
       {
@@ -18,58 +18,53 @@
         "photo": "https://media.istockphoto.com/id/1459178010/photo/fashion-industry-black-woman-and-designer-portrait-of-clothing-tailor-with-business-vision.jpg?s=1024x1024&w=is&k=20&c=dTTKGF31JvCEfYDIL90OT2d0OVgZ5jLtFwFSK7TwNUs="
       },
       {
-        "name": "Suresh Kumar",
-        "title": "Angel Investor",
+        "name": "Arjun Rao",
+        "title": "Startup Mentor, AngelList",
         "photo": "https://media.istockphoto.com/id/1459178010/photo/fashion-industry-black-woman-and-designer-portrait-of-clothing-tailor-with-business-vision.jpg?s=1024x1024&w=is&k=20&c=dTTKGF31JvCEfYDIL90OT2d0OVgZ5jLtFwFSK7TwNUs="
       }
     ],
     "additionalInfo": {
       "mandatory": "PAN ID",
-      "covidGuidelines": "Masks required"
+      "networkingKit": "Provided at entry"
     },
     "tags": ["startup", "networking"]
   },
   {
     "id": 2,
     "title": "Finance Bootcamp",
-    "details": "Dive deep into personal finance, budgeting, and investing with expert guidance. This bootcamp will help you build a solid financial foundation for your future. Learn practical strategies to manage your money effectively and grow your wealth. Sessions include live case studies and interactive Q&A. Perfect for beginners and those looking to improve financial literacy. Join us online and take control of your financial health. No prior experience required.",
+    "details": "Understand the basics of budgeting, saving, and investing. This bootcamp will guide you on building strong financial habits. Learn from industry professionals about stocks, mutual funds, and SIPs. Suitable for beginners and intermediate learners. Get templates and tools to manage personal finances. Attendees receive a certificate of participation. Build your roadmap to financial independence. Live Q&A and expert panel discussion.",
     "eventDay": "Wednesday May 15 2024",
     "startTime": "11:00:00 AM",
     "endTime": "02:00:00 PM",
     "eventMode": "Online",
-    "location": "Zoom Webinar",
+    "location": "Zoom Webinar Platform",
     "price": 0,
-    "image": "https://media.istockphoto.com/id/2028295204/photo/coworkers-talking-on-business-meeting-on-office.webp?a=1&b=1&s=612x612&w=0&k=20&c=o4K92lKqyAyi4F-il2nKyR_Wrab4XY064f8feDXiDLc=",
+    "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "hostedBy": "Money Mindset",
     "speakers": [
       {
         "name": "Rohan Desai",
         "title": "Certified Financial Planner",
         "photo": "https://media.istockphoto.com/id/1459178010/photo/fashion-industry-black-woman-and-designer-portrait-of-clothing-tailor-with-business-vision.jpg?s=1024x1024&w=is&k=20&c=dTTKGF31JvCEfYDIL90OT2d0OVgZ5jLtFwFSK7TwNUs="
-      },
-      {
-        "name": "Priya Sharma",
-        "title": "Investment Analyst",
-        "photo": "https://media.istockphoto.com/id/1459178010/photo/fashion-industry-black-woman-and-designer-portrait-of-clothing-tailor-with-business-vision.jpg?s=1024x1024&w=is&k=20&c=dTTKGF31JvCEfYDIL90OT2d0OVgZ5jLtFwFSK7TwNUs="
       }
     ],
     "additionalInfo": {
       "entryPass": "QR Code on Email",
-      "recordingAvailable": "Yes"
+      "certificate": "Yes"
     },
     "tags": ["finance", "investment"]
   },
   {
     "id": 3,
     "title": "Health Summit",
-    "details": "Explore the latest holistic health solutions and wellness trends in this comprehensive summit. Gain insights from top nutritionists and wellness coaches. Sessions cover diet, mental health, fitness, and lifestyle changes to improve overall well-being. Network with health enthusiasts and professionals. Workshops include guided meditation and healthy cooking demonstrations. Suitable for anyone interested in adopting a healthier lifestyle. Join us offline to experience wellness firsthand.",
+    "details": "Explore holistic health solutions from experts in nutrition, fitness, and mental wellbeing. Topics include sustainable diet plans, stress reduction methods, and preventive care. Learn from real-life transformations and evidence-based practices. Group yoga sessions, wellness product sampling, and fitness challenges. Attendees receive a wellness goodie bag. Improve your lifestyle with guidance from top coaches. Take charge of your health, today!",
     "eventDay": "Sunday April 7 2024",
     "startTime": "09:00:00 AM",
     "endTime": "01:00:00 PM",
     "eventMode": "Offline",
-    "location": "Wellness Arena",
+    "location": "Wellness Arena Complex, 98 Healthy Street, East City",
     "price": 500,
-    "image": "https://media.istockphoto.com/id/2028295204/photo/coworkers-talking-on-business-meeting-on-office.webp?a=1&b=1&s=612x612&w=0&k=20&c=o4K92lKqyAyi4F-il2nKyR_Wrab4XY064f8feDXiDLc=",
+    "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "hostedBy": "FitLife Org",
     "speakers": [
       {
@@ -78,15 +73,89 @@
         "photo": "https://media.istockphoto.com/id/1459178010/photo/fashion-industry-black-woman-and-designer-portrait-of-clothing-tailor-with-business-vision.jpg?s=1024x1024&w=is&k=20&c=dTTKGF31JvCEfYDIL90OT2d0OVgZ5jLtFwFSK7TwNUs="
       },
       {
-        "name": "Arjun Singh",
-        "title": "Fitness Expert",
+        "name": "Amit Chawla",
+        "title": "Yoga Expert & Healer",
         "photo": "https://media.istockphoto.com/id/1459178010/photo/fashion-industry-black-woman-and-designer-portrait-of-clothing-tailor-with-business-vision.jpg?s=1024x1024&w=is&k=20&c=dTTKGF31JvCEfYDIL90OT2d0OVgZ5jLtFwFSK7TwNUs="
       }
     ],
     "additionalInfo": {
       "idRequired": "Aadhar Card",
-      "healthSafety": "Sanitizers Provided"
+      "wellnessKit": "Included"
     },
     "tags": ["health", "wellness"]
+  },
+  {
+    "id": 4,
+    "title": "Photography Walk",
+    "details": "Join a community of photo enthusiasts on a scenic walk through heritage-rich city zones. Capture the golden hour, historical buildings, and street life. Guided by professional photographers sharing live tips. Participate in live mini-contests and win cool photography gear. Perfect for beginners and experienced shooters. Capture memories, learn techniques, and explore storytelling through lenses. Get your best clicks featured in our community gallery!",
+    "eventDay": "Saturday March 16 2024",
+    "startTime": "06:00:00 AM",
+    "endTime": "09:00:00 AM",
+    "eventMode": "Offline",
+    "location": "City Fort Entrance Gate, Old Town Area",
+    "price": 300,
+    "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "hostedBy": "PhotoTribe",
+    "speakers": [
+      {
+        "name": "Ankit Verma",
+        "title": "Street Photographer",
+        "photo": "https://media.istockphoto.com/id/1459178010/photo/fashion-industry-black-woman-and-designer-portrait-of-clothing-tailor-with-business-vision.jpg?s=1024x1024&w=is&k=20&c=dTTKGF31JvCEfYDIL90OT2d0OVgZ5jLtFwFSK7TwNUs="
+      },
+      {
+        "name": "Riya Sinha",
+        "title": "Visual Travel Blogger",
+        "photo": "https://media.istockphoto.com/id/1459178010/photo/fashion-industry-black-woman-and-designer-portrait-of-clothing-tailor-with-business-vision.jpg?s=1024x1024&w=is&k=20&c=dTTKGF31JvCEfYDIL90OT2d0OVgZ5jLtFwFSK7TwNUs="
+      }
+    ],
+    "additionalInfo": {
+      "bring": "DSLR or phone camera",
+      "snacksIncluded": "Yes"
+    },
+    "tags": ["photography", "outdoor"]
+  },
+  {
+    "id": 5,
+    "title": "Tech Career Fair",
+    "details": "Connect with top tech companies and recruiters in this annual tech-focused career fair. Explore job openings, internship opportunities, and networking lounges. Participate in mock interviews and resume reviews. Attend workshops on LinkedIn optimization and career growth. Gain insights into what recruiters look for. Hear tech professionals share real-life hiring stories. Open for both students and working professionals. Spot hiring available!",
+    "eventDay": "Monday February 5 2024",
+    "startTime": "10:00:00 AM",
+    "endTime": "05:00:00 PM",
+    "eventMode": "Offline",
+    "location": "Tech Grounds Convention Hall, City Center",
+    "price": 0,
+    "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "hostedBy": "CareerBridge",
+    "speakers": [],
+    "additionalInfo": {
+      "entryFree": "Yes",
+      "resumeRequired": "Yes"
+    },
+    "tags": ["career", "technology"]
+  },
+  {
+    "id": 6,
+    "title": "Art Therapy Workshop",
+    "details": "Relax and explore your inner creativity through therapeutic art sessions. No experience needed—just bring yourself. Led by licensed art therapists using colors and patterns for healing. Activities include painting, clay modeling, and mindful sketching. Learn how to express emotions through visuals. Group sharing circles included to enhance emotional bonding. All materials provided. Refreshments served post-session.",
+    "eventDay": "Sunday June 30 2024",
+    "startTime": "03:00:00 PM",
+    "endTime": "06:00:00 PM",
+    "eventMode": "Offline",
+    "location": "Mindful Space Studio, 21 Peace Street, South City",
+    "price": 600,
+    "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "hostedBy": "Healing Hands",
+    "speakers": [
+      {
+        "name": "Ishita Rao",
+        "title": "Visual Therapist",
+        "photo": "https://media.istockphoto.com/id/1459178010/photo/fashion-industry-black-woman-and-designer-portrait-of-clothing-tailor-with-business-vision.jpg?s=1024x1024&w=is&k=20&c=dTTKGF31JvCEfYDIL90OT2d0OVgZ5jLtFwFSK7TwNUs="
+      }
+    ],
+    "additionalInfo": {
+      "materialsProvided": "Yes",
+      "groupActivity": "Included"
+    },
+    "tags": ["art", "therapy"]
   }
 ]

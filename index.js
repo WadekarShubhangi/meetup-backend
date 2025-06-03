@@ -47,7 +47,7 @@ function seedData() {
     console.log("Not able to seed Data.");
   }
 }
-seedData();
+// seedData();
 
 app.get('/favicon.ico', (req, res) => res.status(204).end());
 
