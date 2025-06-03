@@ -13,40 +13,40 @@ app.use(express.json());
 
 const { initializeDatabase } = require("./db/db.connect");
 const Events = require("./models/event.models");
-const fs = require("fs"); 
+// const fs = require("fs"); 
 // const jsonData = fs.readFileSync("events.json", "utf-8");
-const path = require("path");
-const jsonPath = path.join(__dirname, "events.json");
-const jsonData = fs.readFileSync(jsonPath, "utf-8");
-const EventData = JSON.parse(jsonData);
+// const path = require("path");
+// const jsonPath = path.join(__dirname, "events.json");
+// const jsonData = fs.readFileSync(jsonPath, "utf-8");
+// const EventData = JSON.parse(jsonData);
 
 initializeDatabase();
 
-function seedData() {
-  try {
-    for (const event of EventData) {
-      const newEventData = new Events({
-        id: event.id,
-        title: event.title,
-        details: event.details,
-        eventDay: event.eventDay,
-        startTime: event.startTime,
-        endTime: event.endTime,
-        eventMode: event.eventMode,
-        location: event.location,
-        price: event.price,
-        image: event.image,
-        hostedBy: event.hostedBy,
-        speakers: event.speakers,
-        additionalInfo: event.additionalInfo,
-        tags: event.tags,
-      });
-      newEventData.save();
-    }
-  } catch (error) {
-    console.log("Not able to seed Data.");
-  }
-}
+// function seedData() {
+//   try {
+//     for (const event of EventData) {
+//       const newEventData = new Events({
+//         id: event.id,
+//         title: event.title,
+//         details: event.details,
+//         eventDay: event.eventDay,
+//         startTime: event.startTime,
+//         endTime: event.endTime,
+//         eventMode: event.eventMode,
+//         location: event.location,
+//         price: event.price,
+//         image: event.image,
+//         hostedBy: event.hostedBy,
+//         speakers: event.speakers,
+//         additionalInfo: event.additionalInfo,
+//         tags: event.tags,
+//       });
+//       newEventData.save();
+//     }
+//   } catch (error) {
+//     console.log("Not able to seed Data.");
+//   }
+// }
 // seedData();
 
 app.get('/favicon.ico', (req, res) => res.status(204).end());
