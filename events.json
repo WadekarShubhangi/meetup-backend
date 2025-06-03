@@ -2,12 +2,12 @@
   {
     "id": 1,
     "title": "Startup Meetup",
-    "details": "Network with budding entrepreneurs and investors. Learn how to pitch your idea and raise capital.",
+    "details": "Join an exciting networking event designed for budding entrepreneurs and investors alike. Learn how to pitch your ideas effectively and raise capital for your startup ventures. The meetup features workshops, Q&A sessions, and live pitches. Expand your network with like-minded professionals and industry experts. Gain valuable insights into the startup ecosystem and business growth strategies. Ideal for early-stage founders and startup enthusiasts. Don’t miss the opportunity to accelerate your business journey.",
     "eventDay": "Friday June 21 2024",
     "startTime": "04:00:00 PM",
     "endTime": "07:00:00 PM",
     "eventMode": "Offline",
-    "location": "CoWork Hub, 67 Founders Lane, City",
+    "location": "CoWork Hub",
     "price": 1000,
     "image": "https://media.istockphoto.com/id/2028295204/photo/coworkers-talking-on-business-meeting-on-office.webp?a=1&b=1&s=612x612&w=0&k=20&c=o4K92lKqyAyi4F-il2nKyR_Wrab4XY064f8feDXiDLc=",
     "hostedBy": "Startup Club",
@@ -15,18 +15,24 @@
       {
         "name": "Neha Patel",
         "title": "CEO, FinGrow",
-        "photo": "neha.jpg"
+        "photo": "https://media.istockphoto.com/id/1459178010/photo/fashion-industry-black-woman-and-designer-portrait-of-clothing-tailor-with-business-vision.jpg?s=1024x1024&w=is&k=20&c=dTTKGF31JvCEfYDIL90OT2d0OVgZ5jLtFwFSK7TwNUs="
+      },
+      {
+        "name": "Suresh Kumar",
+        "title": "Angel Investor",
+        "photo": "https://media.istockphoto.com/id/1459178010/photo/fashion-industry-black-woman-and-designer-portrait-of-clothing-tailor-with-business-vision.jpg?s=1024x1024&w=is&k=20&c=dTTKGF31JvCEfYDIL90OT2d0OVgZ5jLtFwFSK7TwNUs="
       }
     ],
     "additionalInfo": {
-      "mandatory": "PAN ID"
+      "mandatory": "PAN ID",
+      "covidGuidelines": "Masks required"
     },
     "tags": ["startup", "networking"]
   },
   {
     "id": 2,
     "title": "Finance Bootcamp",
-    "details": "Understand budgeting, investing, and personal finance with expert guidance.",
+    "details": "Dive deep into personal finance, budgeting, and investing with expert guidance. This bootcamp will help you build a solid financial foundation for your future. Learn practical strategies to manage your money effectively and grow your wealth. Sessions include live case studies and interactive Q&A. Perfect for beginners and those looking to improve financial literacy. Join us online and take control of your financial health. No prior experience required.",
     "eventDay": "Wednesday May 15 2024",
     "startTime": "11:00:00 AM",
     "endTime": "02:00:00 PM",
@@ -39,23 +45,29 @@
       {
         "name": "Rohan Desai",
         "title": "Certified Financial Planner",
-        "photo": "rohan.jpg"
+        "photo": "https://media.istockphoto.com/id/1459178010/photo/fashion-industry-black-woman-and-designer-portrait-of-clothing-tailor-with-business-vision.jpg?s=1024x1024&w=is&k=20&c=dTTKGF31JvCEfYDIL90OT2d0OVgZ5jLtFwFSK7TwNUs="
+      },
+      {
+        "name": "Priya Sharma",
+        "title": "Investment Analyst",
+        "photo": "https://media.istockphoto.com/id/1459178010/photo/fashion-industry-black-woman-and-designer-portrait-of-clothing-tailor-with-business-vision.jpg?s=1024x1024&w=is&k=20&c=dTTKGF31JvCEfYDIL90OT2d0OVgZ5jLtFwFSK7TwNUs="
       }
     ],
     "additionalInfo": {
-      "entryPass": "QR Code on Email"
+      "entryPass": "QR Code on Email",
+      "recordingAvailable": "Yes"
     },
     "tags": ["finance", "investment"]
   },
   {
     "id": 3,
     "title": "Health Summit",
-    "details": "Explore holistic health solutions and wellness trends.",
+    "details": "Explore the latest holistic health solutions and wellness trends in this comprehensive summit. Gain insights from top nutritionists and wellness coaches. Sessions cover diet, mental health, fitness, and lifestyle changes to improve overall well-being. Network with health enthusiasts and professionals. Workshops include guided meditation and healthy cooking demonstrations. Suitable for anyone interested in adopting a healthier lifestyle. Join us offline to experience wellness firsthand.",
     "eventDay": "Sunday April 7 2024",
     "startTime": "09:00:00 AM",
     "endTime": "01:00:00 PM",
     "eventMode": "Offline",
-    "location": "Wellness Arena, 98 Healthy Street, City",
+    "location": "Wellness Arena",
     "price": 500,
     "image": "https://media.istockphoto.com/id/2028295204/photo/coworkers-talking-on-business-meeting-on-office.webp?a=1&b=1&s=612x612&w=0&k=20&c=o4K92lKqyAyi4F-il2nKyR_Wrab4XY064f8feDXiDLc=",
     "hostedBy": "FitLife Org",
@@ -63,84 +75,18 @@
       {
         "name": "Dr. Kavya Mehra",
         "title": "Nutritionist & Wellness Coach",
-        "photo": "kavya.jpg"
+        "photo": "https://media.istockphoto.com/id/1459178010/photo/fashion-industry-black-woman-and-designer-portrait-of-clothing-tailor-with-business-vision.jpg?s=1024x1024&w=is&k=20&c=dTTKGF31JvCEfYDIL90OT2d0OVgZ5jLtFwFSK7TwNUs="
+      },
+      {
+        "name": "Arjun Singh",
+        "title": "Fitness Expert",
+        "photo": "https://media.istockphoto.com/id/1459178010/photo/fashion-industry-black-woman-and-designer-portrait-of-clothing-tailor-with-business-vision.jpg?s=1024x1024&w=is&k=20&c=dTTKGF31JvCEfYDIL90OT2d0OVgZ5jLtFwFSK7TwNUs="
       }
     ],
     "additionalInfo": {
-      "idRequired": "Aadhar Card"
+      "idRequired": "Aadhar Card",
+      "healthSafety": "Sanitizers Provided"
     },
     "tags": ["health", "wellness"]
-  },
-  {
-    "id": 4,
-    "title": "Photography Walk",
-    "details": "Join photography enthusiasts on a guided photo walk across heritage locations.",
-    "eventDay": "Saturday March 16 2024",
-    "startTime": "06:00:00 AM",
-    "endTime": "09:00:00 AM",
-    "eventMode": "Offline",
-    "location": "City Fort Gate",
-    "price": 300,
-    "image": "https://media.istockphoto.com/id/2028295204/photo/coworkers-talking-on-business-meeting-on-office.webp?a=1&b=1&s=612x612&w=0&k=20&c=o4K92lKqyAyi4F-il2nKyR_Wrab4XY064f8feDXiDLc=",
-    "hostedBy": "PhotoTribe",
-    "speakers": [
-      {
-        "name": "Ankit Verma",
-        "title": "Street Photographer",
-        "photo": "ankit.jpg"
-      }
-    ],
-    "additionalInfo": {
-      "dressCode": "Outdoor wear"
-    },
-    "tags": ["photography", "walk"]
-  },
-  {
-    "id": 5,
-    "title": "Coding Hackathon",
-    "details": "Participate in a 24-hour coding marathon and win exciting prizes.",
-    "eventDay": "Saturday August 3 2024",
-    "startTime": "09:00:00 AM",
-    "endTime": "09:00:00 AM (Next Day)",
-    "eventMode": "Offline",
-    "location": "CodeGround Campus, Sector 9",
-    "price": 0,
-    "image": "https://media.istockphoto.com/id/2028295204/photo/coworkers-talking-on-business-meeting-on-office.webp?a=1&b=1&s=612x612&w=0&k=20&c=o4K92lKqyAyi4F-il2nKyR_Wrab4XY064f8feDXiDLc=",
-    "hostedBy": "Techies United",
-    "speakers": [
-      {
-        "name": "Aarav Singh",
-        "title": "Lead Developer, CodeLogics",
-        "photo": "aarav.jpg"
-      }
-    ],
-    "additionalInfo": {
-      "bring": "Laptop & ID card"
-    },
-    "tags": ["coding", "hackathon"]
-  },
-  {
-    "id": 6,
-    "title": "Art Showcase",
-    "details": "Experience stunning art by local creators including live art and exhibitions.",
-    "eventDay": "Friday July 12 2024",
-    "startTime": "05:00:00 PM",
-    "endTime": "09:00:00 PM",
-    "eventMode": "Offline",
-    "location": "Gallery 101, Art Avenue, City",
-    "price": 800,
-    "image": "https://media.istockphoto.com/id/2028295204/photo/coworkers-talking-on-business-meeting-on-office.webp?a=1&b=1&s=612x612&w=0&k=20&c=o4K92lKqyAyi4F-il2nKyR_Wrab4XY064f8feDXiDLc=",
-    "hostedBy": "Creative Hands",
-    "speakers": [
-      {
-        "name": "Ishita Rao",
-        "title": "Visual Artist",
-        "photo": "ishita.jpg"
-      }
-    ],
-    "additionalInfo": {
-      "noRestrictions": "Open entry"
-    },
-    "tags": ["art", "exhibition"]
   }
 ]
